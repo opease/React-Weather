@@ -18,9 +18,9 @@ export default function Weather() {
         This project was coded by {" "}
         <a href="https://github.com/opease" target="_blank" rel="noreferrer">Odille Pease</a>
         {" "} open-sourced on {" "}
-        <a href="https://github.com/opease/Weer" target="_blank" rel="noreferrer">GitHub</a>
+        <a href="https://github.com/opease/React-Weather" target="_blank" rel="noreferrer">GitHub</a>
         {" "} and website hosted on {" "}
-        <a href="https://weer-shecodes-app.netlify.app" target="_blank" rel="noreferrer">
+        <a href="https://react-weather-opease.netlify.app/" target="_blank" rel="noreferrer">
            Netlify
         </a>
       </footer>
