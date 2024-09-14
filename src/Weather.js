@@ -16,11 +16,11 @@ export default function Weather() {
   
       <footer>
         This project was coded by {" "}
-        <a href="https://github.com/opease" target="_blank">Odille Pease</a>
+        <a href="https://github.com/opease" target="_blank" rel="noreferrer">Odille Pease</a>
         {" "} open-sourced on {" "}
-        <a href="https://github.com/opease/Weer" target="_blank">GitHub</a>
+        <a href="https://github.com/opease/Weer" target="_blank" rel="noreferrer">GitHub</a>
         {" "} and website hosted on {" "}
-        <a href="https://weer-shecodes-app.netlify.app" target="_blank">
+        <a href="https://weer-shecodes-app.netlify.app" target="_blank" rel="noreferrer">
            Netlify
         </a>
       </footer>
